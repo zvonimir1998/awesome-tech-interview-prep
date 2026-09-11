@@ -48,6 +48,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 - [Glassdoor](https://glassdoor.com) - Interview questions, reviews, and salary data from employees.
 - [Blind](https://www.teamblind.com) - Anonymous community where tech professionals share TC, offers, and interview experiences.
 - [Comprehensive.io](https://www.comprehensive.io/) - Startup equity and compensation benchmarks.
+- [InterviewLegend](https://interviewlegend.com) - company-specific interview prep covering coding, system design, and behavioral rounds
 
 ---
 
